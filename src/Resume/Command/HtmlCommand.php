@@ -11,7 +11,7 @@ use Assetic\Asset\FileAsset;
 use Assetic\Filter;
 use Michelf\MarkdownExtra;
 use Michelf\SmartyPants;
-use Sunra\PhpSimple\HtmlDomParser;
+use voku\helper\HtmlDomParser;
 
 class HtmlCommand extends Command
 {
